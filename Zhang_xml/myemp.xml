@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<list>
+	<emp id="1">
+		<name>zhang</name>
+		<age>123</age>
+		<salary>3223</salary>
+		<gender>男</gender>
+	</emp>
+	<emp id="2">
+		<name>huang</name>
+		<age>223</age>
+		<salary>3223</salary>
+		<gender>男</gender>
+	</emp>
+	<emp id="3">
+		<name>xin</name>
+		<age>323</age>
+		<salary>3223</salary>
+		<gender>男</gender>
+	</emp>
+	<emp id="4">
+		<name>hua</name>
+		<age>423</age>
+		<salary>3223</salary>
+		<gender>男</gender>
+	</emp>
+	<emp id="5">
+		<name>cao</name>
+		<age>523</age>
+		<salary>3223</salary>
+		<gender>男</gender>
+	</emp>
+	<emp id="6">
+		<name>afa</name>
+		<age>623</age>
+		<salary>3223</salary>
+		<gender>男</gender>
+	</emp>
+	<emp id="7">
+		<name>fa</name>
+		<age>723</age>
+		<salary>3223</salary>
+		<gender>男</gender>
+	</emp>
+</list>
